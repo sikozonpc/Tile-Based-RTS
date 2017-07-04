@@ -1,0 +1,5 @@
+Total tiles: 900
+Tree tiles: 208
+Grass tiles: 232
+Gold tiles: 224
+Water tiles: 236
